@@ -84,6 +84,7 @@ span {
 
 .hero p {
 	font-weight: 400;
+	color: var(--wenge-brown);
 }
 
 .prep-time {
