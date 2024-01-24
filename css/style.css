@@ -93,6 +93,7 @@ span {
 	color: var(--dark-raspberry);
 	font-family: var(--ff-p);
 	margin-bottom: 16px;
+	font-size: 20px;
 }
 
 .prep-time ul {
